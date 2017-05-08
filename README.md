@@ -13,7 +13,14 @@ Made with :heart: by David Shustin and Teo Nys.
 ## Web Dev
 * [Basic structure of an HTML file](html-css/template.html)
 * [Headers, paragraphs, and line breaks](html-css/headers-paragraphs-breaks.html)
-* [Comments, Default HTML Style](html-css/comments-html-style.html)
+* [Comments and default HTML style](html-css/comments-html-style.html)
+* [Images and links](html-css/links-images.html)
 * Basic CSS
   * [HTML](html-css/basic-css.html)
   * [CSS](html-css/basic-css.html)
+* Selectors
+  * [HTML](html-css/selectors.html)
+  * [CSS](html-css/selectors.css)
+* Divs
+  * [HTML](html-css/divs.html)
+  * [CSS](html-css/divs.css)
