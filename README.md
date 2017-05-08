@@ -12,3 +12,4 @@ Made with :heart: by David Shustin and Teo Nys.
 
 ## Web Dev
 * [Basic structure of an HTML file](html-css/template.html)
+* [Headers, paragraphs, and line breaks](html-css/headers-paragraphs-breaks.html)
