@@ -1,5 +1,5 @@
 # hackMHS IV Web Dev and Javascript
-<hr>
+
 This is the repository for the example code used in the workshops at hackMHS IV, on May 27th, 2017.
 
 There is no guarantee that all of the topics in this repository will be taught, nor that all of the files will be used or demonstrated.  However, if we use a file, it will be available here.
