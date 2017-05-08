@@ -1,0 +1,4 @@
+span {
+  font-family: "Kooky Font", Courier, Georgia, Verdana;
+  /*Notice how "Kooky Font" isn't a font installed on this machine.  CSS falls back on the next font, Courier.*/
+}
