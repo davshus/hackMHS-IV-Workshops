@@ -1,0 +1,13 @@
+#square, #circle, #squircle {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: 1px solid black;
+  text-align: center;
+}
+#circle {
+  border-radius: 100%;
+}
+#squircle {
+  border-radius: 25%;
+}
