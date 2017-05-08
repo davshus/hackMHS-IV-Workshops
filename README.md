@@ -11,3 +11,4 @@ Made with :heart: by David Shustin and Teo Nys.
 * [Variables](js/variables.js)
 
 ## Web Dev
+* [Basic structure of an HTML file](html-css/template.html)
