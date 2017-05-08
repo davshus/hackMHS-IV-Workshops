@@ -23,4 +23,7 @@ Made with :heart: by David Shustin and Teo Nys.
 
 ## JavaScript
   * [Printing to the console](js/printing.js)
+  * Web/JS Integration
+    * [HTML](js/web-js.html)
+    * [JS](js/web-js.js)
   * [Variables](js/variables.js)
