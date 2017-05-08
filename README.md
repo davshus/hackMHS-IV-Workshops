@@ -6,10 +6,6 @@ There is no guarantee that all of the topics in this repository will be taught, 
 
 Made with :heart: by David Shustin and Teo Nys.
 
-## JavaScript
-* [Printing to the console](js/printing.js)
-* [Variables](js/variables.js)
-
 ## Web Dev
 * [Basic structure of an HTML file](html-css/template.html)
 * [Headers, paragraphs, and line breaks](html-css/headers-paragraphs-breaks.html)
@@ -24,3 +20,7 @@ Made with :heart: by David Shustin and Teo Nys.
 * Divs
   * [HTML](html-css/divs.html)
   * [CSS](html-css/divs.css)
+
+  ## JavaScript
+  * [Printing to the console](js/printing.js)
+  * [Variables](js/variables.js)
