@@ -21,6 +21,6 @@ Made with :heart: by David Shustin and Teo Nys.
   * [HTML](html-css/divs.html)
   * [CSS](html-css/divs.css)
 
-  ## JavaScript
+## JavaScript
   * [Printing to the console](js/printing.js)
   * [Variables](js/variables.js)
