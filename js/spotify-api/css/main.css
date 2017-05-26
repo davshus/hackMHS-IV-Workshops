@@ -1,0 +1,23 @@
+#header-container {
+  background-color: rgb(19, 142, 181);
+  height: 30vh;
+  width: 100%;
+  color: white;
+  font-family: "Open Sans", Times;
+}
+#body-container {
+  background-color: rgb(0, 212, 226);
+  height: 70vh;
+  width: 100%;
+  font-family: "Raleway", Arial;
+}
+#header-container,#body-container {
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#header-container h1 {
+  margin: 0;
+}
