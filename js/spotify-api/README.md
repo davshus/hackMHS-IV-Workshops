@@ -1,8 +1,8 @@
 # Spotify API
 
-This is an app to learn about APIs and JavaScript.  It allows spotify users to sign in and view all of their saved tracks.
-
 # This is the finished version, to see how a working example looks.  The blank template is in [spotify-api-template](../spotify-api-template).
+
+This is an app to learn about APIs and JavaScript.  It allows spotify users to sign in and view all of their saved tracks.
 
 ## Installation
 
