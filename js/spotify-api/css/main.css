@@ -1,15 +1,17 @@
 #header-container {
   background: linear-gradient(to bottom, #1A7896, rgb(19, 142, 181));
-  height: 30vh;
+  height: 15vh;
   width: 100%;
   color: white;
   font-family: "Open Sans", Times;
 }
 #body-container {
   background: linear-gradient(to bottom, rgb(19, 142, 181) 5%, rgb(0, 212, 226));
-  height: 70vh;
+  height: 85vh;
   width: 100%;
   font-family: "Raleway", Arial;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 #header-container,#body-container {
   text-align: center;
