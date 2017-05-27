@@ -29,3 +29,5 @@ Made with :heart: by David Shustin.
     * [HTML](js/web-js.html)
     * [JS](js/web-js.js)
   * [Variables](js/variables.js)
+  * [Spotify API Template (for lessons)](js/spotify-api)
+  * [Spotify API Completed (for example)](js/spotify-api-template)
